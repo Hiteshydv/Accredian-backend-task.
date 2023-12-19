@@ -6,7 +6,7 @@ This repository contains RESTful APIs for secure user authentication, including 
 
 ## Key Features
 
-- ✨ Secure user signup and login
+- ✨ Secure user signup and login Page
 - 🔄 Token-based authentication
 - 🛡️ Password hashing for enhanced security
 - 📊 MySQL database integration for persistent data storage
